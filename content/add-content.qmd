@@ -1,5 +1,5 @@
 ---
-title: Customize
+title: Referencias
 ---
 
 ## Edit and add your pages
@@ -7,11 +7,12 @@ title: Customize
 Edit the qmd or md files in the `content` folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).
 
 Each page should start with 
+
+
+```{=html}
+<iframe width="780" height="500" src="https://github.com/cedointercultural/grupo_cambio_climatico/blob/main/Evaluacion_de_vulnerabilidad.pdf" title="Reporte vulnerabilidad"></iframe>
 ```
----
-title: your title
----
-```
+
 and the first header will be the 2nd level, so `## `. Note, there are situations where you leave off
 ```
 ---
