@@ -1,21 +1,23 @@
 ---
-title: Rendering
+title: Difusión
 ---
 
-The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the `gh-pages` branch.
+## Infografias
 
-But when you are developing your content, you will want to render it locally. 
+::: {#fig-Infografias layout-ncol=1}
 
-## Step 1. Make sure you have a recent RStudio
+![David Petatán Ramírez](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-Have you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto.
+![Christian Salvadeo](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-## Step 2. Clone and create RStudio project
+![Gabriela Cruz Piñón](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-First, clone the repo onto your local computer. How? You can click File > New Project and then select "Version Control". Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up.
+![Hector Reyes Bonilla](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-## Step 3. Render within RStudio
+![Hem Nalini Morzaria-Luna](https://user-images.githubusercontent.com/11339490/282316810-e8bc09b4-95ca-4530-ac03-68350e7f9474.jpg){#fig-surus}
 
-RStudio will recognize that this is a Quarto project by the presence of the `_quarto.yml` file and will see the "Build" tab.  Click the "Render website" button to render to the `_site` folder.
+![Leonardo Vazquez-Vera](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-**Previewing:** You can either click `index.html` in the `_site` folder and specify "preview in browser" or set up RStudio to preview to the viewer panel. To do the latter, go to Tools > Global Options > R Markdown. Then select "Show output preview in: Viewer panel". 
+
+Miembros
+:::

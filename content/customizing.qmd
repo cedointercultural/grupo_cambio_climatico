@@ -1,17 +1,23 @@
 ---
-title: Customization
+title: Miembros
 ---
 
-## Quarto documentation
+## Grupo de investigación en cambio climático
 
-Quarto allow many bells and whistles to make nice output. Read the documentation here [Quarto documentation](https://quarto.org/docs/guide/).
+::: {#fig-members layout-ncol=3}
 
-## Examples
+![David Petatán Ramírez](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-Looking at other people's Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.
+![Christian Salvadeo](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
-* [Quarto gallery](https://quarto.org/docs/gallery/)
-* [nmfs-openscapes](https://nmfs-openscapes.github.io/)
-* [Faye lab manual](https://thefaylab.github.io/lab-manual/)
-* [quarto-titlepages](https://nmfs-opensci.github.io/quarto_titlepages/) Note the link to edit is broken. Go to repo and look in `documentation` directory.
+![Gabriela Cruz Piñón](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
 
+![Hector Reyes Bonilla](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
+
+![Hem Nalini Morzaria-Luna](https://user-images.githubusercontent.com/11339490/282316810-e8bc09b4-95ca-4530-ac03-68350e7f9474.jpg){#fig-surus}
+
+![Leonardo Vazquez-Vera](https://user-images.githubusercontent.com/11339490/282316750-116af0c2-1605-4fb6-9337-e672ff04a920.JPG){#fig-hanno}
+
+
+Miembros
+:::

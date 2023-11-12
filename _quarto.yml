@@ -3,19 +3,19 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "Grupo de investigación en cambio climático" 
+  site-url: "https://cedointercultural.github.io/grupo_cambio_climatico/" 
+  repo-url: "https://github.com/cedointercultural/grupo_cambio_climatico"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
   page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
+    right: "Sitio creado con [Quarto](https://quarto.org/)."
     left: "&copy; CC-1.0"
   
   sidebar:
     background: "#36A6B8"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    logo: "https://user-images.githubusercontent.com/11339490/281551631-c0e94c96-11e4-4c3e-8ebf-c2ba2cf661e2.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
@@ -34,11 +34,11 @@ website:
       - href: index.qmd
         text: Home
       - href: content/add-content.qmd
-        text: Add content
+        text: Productos científicos
       - href: content/customizing.qmd
-        text: Customizing
+        text: Miembros del grupo de trabajo
       - href: content/rendering.qmd
-        text: Rendering
+        text: Difusión
       - href: content/rmarkdown.Rmd
         text: R Markdown files
       - href: content/code.qmd
