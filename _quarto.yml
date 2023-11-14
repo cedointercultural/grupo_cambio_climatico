@@ -21,8 +21,8 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://www.gob.mx/inapesca/es/articulos/cambio-climatico-304307?idiom=es
+        text: "Vulnerabilidad de comunidades y disponibilidad de recursos pesqueros y acuicolas"
       - icon: github
         href: https://github.com/nmfs-opensci
         text: "NMFS OpenSci"
